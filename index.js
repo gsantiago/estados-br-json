@@ -1,2 +1,2 @@
-module.exports = require('index.json')
+module.exports = require('./index.json')
 
