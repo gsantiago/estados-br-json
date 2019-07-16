@@ -1,8 +1,8 @@
 {
   "name": "estados-br-json",
   "description": "Array com os estados brasileiros no formato label/value [ { label: 'Paraná', value: 'PR' } ]",
-  "version": "0.0.1",
-  "main": "index.json",
+  "version": "0.0.2",
+  "main": "index.js",
   "author": "Guilherme Santiago",
   "homepage": "https://github.com/gsantiago/estados-br-json",
   "license": "MIT",
